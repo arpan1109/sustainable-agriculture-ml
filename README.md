@@ -1,50 +1,17 @@
-# \# Sustainable Agriculture — Reducing Chemical Inputs with AI/ML
+# Sustainable Agriculture - ML Project
 
-# 
+## Data Sources
+We are using the Crop Recommendation Dataset from Kaggle.
 
-# \## Project Goal
+## Project Structure
+- `data/raw/` → Raw datasets
+- `data/processed/` → Cleaned datasets
+- `notebooks/` → Jupyter notebooks
+- `src/` → Source code
+- `models/` → Saved ML models
+- `reports/figures/` → Graphs and plots
 
-# To minimize chemical fertilizer and pesticide usage by recommending crops
-
-# that are naturally suited to soil nutrients and environmental conditions.
-
-# 
-
-# \## Dataset
-
-# Crop Recommendation Dataset from Kaggle.  
-
-# Stored under `data/raw/crop\_recommendation.csv`.
-
-# 
-
-# \## Repo Structure
-
-# \- `data/raw/` → raw dataset
-
-# \- `data/processed/` → cleaned/processed data
-
-# \- `notebooks/` → Jupyter notebooks (EDA, models)
-
-# \- `src/` → helper scripts
-
-# \- `reports/` → figures, charts
-
-# \- `models/` → trained ML models
-
-# 
-
-# \## Week 1 Deliverables
-
-# ✅ Dataset collected and stored  
-
-# ✅ Repo structured  
-
-# ✅ Requirements + Data Card added  
-
-# 
-
-# Next: \*\*Week 2 → Exploratory Data Analysis (EDA)\*\*
-
-
-
+## How to Run
+1. Clone the repo
+2. Install dependencies
+3. Run Jupyter notebooks
