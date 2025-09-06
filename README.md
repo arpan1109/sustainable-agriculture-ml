@@ -1,17 +1,25 @@
 # Sustainable Agriculture - ML Project
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arpan1109/sustainable-agriculture-ml/blob/main/notebooks/Your_Notebook_Name.ipynb)
+
 ## Data Sources
-We are using the Crop Recommendation Dataset from Kaggle.
+We are using the [Crop Recommendation Dataset](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset) from Kaggle for this analysis.
 
 ## Project Structure
-- `data/raw/` → Raw datasets
-- `data/processed/` → Cleaned datasets
-- `notebooks/` → Jupyter notebooks
-- `src/` → Source code
-- `models/` → Saved ML models
-- `reports/figures/` → Graphs and plots
+- **/data/raw/**: Raw datasets
+- **/notebooks/**: Jupyter notebooks with experiments and analysis
+- **/src/**: Source code for data processing and modeling
+- **/models/**: Saved machine learning models
 
 ## How to Run
-1. Clone the repo
-2. Install dependencies
-3. Run Jupyter notebooks
+There are two ways to run this project:
+
+### 1. Using Google Colab (Recommended)
+Click the "Open in Colab" badge above to directly open and run the notebook in a cloud environment.
+
+### 2. Running Locally
+1.  Clone the repository:
+    `git clone https://github.com/arpan1109/sustainable-agriculture-ml.git`
+2.  Install the required dependencies:
+    `pip install -r requirements.txt`
+3.  Navigate to the `notebooks/` directory and run the main Jupyter notebook.
