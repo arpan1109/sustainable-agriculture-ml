@@ -1,6 +1,6 @@
 # Sustainable Agriculture - ML Project
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arpan1109/sustainable-agriculture-ml/blob/main/notebooks/Your_Notebook_Name.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/arpan1109/sustainable-agriculture-ml/blob/main/notebooks/crop-recommendation.ipynb)
 
 ## Data Sources
 We are using the [Crop Recommendation Dataset](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset) from Kaggle for this analysis.
